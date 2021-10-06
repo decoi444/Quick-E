@@ -4,4 +4,4 @@ Quick-E restaurant WebSite.
 
 
 
-inspired by Mr Web Designer 
+inspired by Mr Web Designer Template
