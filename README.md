@@ -1,5 +1,3 @@
-# Quick-E
-Quick-E restaurant WebSite. 
-
+Restaurant type website 
 
 
